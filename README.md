@@ -1,8 +1,19 @@
 
 # Hello 👋, I'm Sofia a Frontend Developer
-Welcome to my Github. This is the place to find all my code. Both from school and side prodjects. I love smart solutions and I would love to be better in accessibility design and well written code.
+Welcome to my Github. This is the place to find all my code. Both from school and side projects. I love smart solutions and I would love to be better in accessibility design and well written code.
 
-## 📓💻 My school prodjects
+## 📓💻 My school projects
+
+### Learning Typescript, React and NextJS.
+
+This was the last course of the education. We made websites with a smal backend and used Typescript together with react or NodeJS. I also learned about webpack and babel during this course. 
+
+#### This is a Christmas shop with som fun products.
+> [View code for the Christmas shop ](https://github.com/SofiaLoven/Christmas-Shop)
+
+#### This is a website for buying tickets to a Santa train that takes place in Uppsala- Sweden every year. 
+> [View code for the Santa train ](https://github.com/SofiaLoven/Santa-train)
+
 
 ### Javascript used as a backend language
 We build an API and used node ejs to use to different ways understand backend coding.
@@ -38,7 +49,7 @@ The first assignement with javascript. I made a quiz about the human body.
 
 > [View code](https://github.com/SofiaLoven/ankademin-quiz)
 
-## 💃💻 Prodjects for fun
+## 💃💻 Projects for fun
 
 ### My wedding website
 
