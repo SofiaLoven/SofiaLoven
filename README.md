@@ -4,7 +4,7 @@ Welcome to my Github. This is the place to find all my code. Both from school an
 
 ## 📓💻 My school projects
 
-### Learning Typescript, React and NextJS.
+### Typescript, React and NextJS.
 
 This was the last course of the education. We made websites with a smal backend and used Typescript together with react or NodeJS. I also learned about webpack and babel during this course. 
 
@@ -14,17 +14,22 @@ This was the last course of the education. We made websites with a smal backend 
 #### This is a website for buying tickets to a Santa train that takes place in Uppsala- Sweden every year. 
 > [View code for the Santa train ](https://github.com/SofiaLoven/Santa-train)
 
+### React and redux. 
+
+####  This asignment is a card app where you can add creditcard. The theme for this asignment was The Office. 
+> [View code for E-wallet ](https://github.com/SofiaLoven/e-wallet)
+
 
 ### Javascript used as a backend language
 We build an API and used node ejs to use to different ways understand backend coding.
 
-I created a bank with my own API. Next step is to make the website work without my computer being the server.
+#### I created a bank with my own API. Next step is to make the website work without my computer being the server.
 
 > [View The Bank "Riskbanken" ](https://sofialoven.github.io/bank-creating-API/public/index.html)
 
 > [View code](https://github.com/SofiaLoven/bank-creating-API)
 
-I made a book club website using node ejs.
+#### I made a book club website using node ejs.
 
 > [View code](https://github.com/SofiaLoven/BokklubbMongoDB)
 
