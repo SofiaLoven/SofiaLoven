@@ -18,15 +18,13 @@ This was the last course of the education. We made websites with a smal backend 
 
 ####  This asignment is a card app where you can add creditcard. The theme for this asignment was The Office. 
 > [View code for E-wallet ](https://github.com/SofiaLoven/e-wallet)
-> [View E-wallet ](https://github.com/SofiaLoven/e-wallet)
+> [View E-wallet ](https://sofialoven.github.io/e-wallet/)
 
 
 ### Javascript used as a backend language
 We build an API and used node ejs to use to different ways understand backend coding.
 
 #### I created a bank with my own API. Next step is to make the website work without my computer being the server.
-
-> [View The Bank "Riskbanken" ](https://sofialoven.github.io/bank-creating-API/public/index.html)
 
 > [View code](https://github.com/SofiaLoven/bank-creating-API)
 
