@@ -18,6 +18,7 @@ This was the last course of the education. We made websites with a smal backend 
 
 ####  This asignment is a card app where you can add creditcard. The theme for this asignment was The Office. 
 > [View code for E-wallet ](https://github.com/SofiaLoven/e-wallet)
+> [View E-wallet ](https://github.com/SofiaLoven/e-wallet)
 
 
 ### Javascript used as a backend language
