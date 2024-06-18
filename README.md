@@ -17,9 +17,9 @@ This was the last course of the education. We made websites with a smal backend 
 ### React and redux. 
 
 ####  This asignment is a card app where you can add creditcard. The theme for this asignment was The Office. 
-> [View code for E-wallet ](https://github.com/SofiaLoven/e-wallet)
-> [View E-wallet ](https://sofialoven.github.io/e-wallet/)
+> [View website ](https://sofialoven.github.io/e-wallet/)
 
+> [View code for E-wallet ](https://github.com/SofiaLoven/e-wallet)
 
 ### Javascript used as a backend language
 We build an API and used node ejs to use to different ways understand backend coding.
